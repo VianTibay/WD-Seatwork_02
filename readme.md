@@ -10,7 +10,7 @@
     <img src="./assets/img/sh.gif" alt="Rotov" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Rotciv</h3>
+  <h3 align="center">Rotov</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -33,14 +33,12 @@ Hello world!!
   <ol>
     <li>
       <a href="#overview">Overview</a>
-      <ol>
         <li>
           <a href="#key-components">Key Components</a>
         </li>
         <li>
           <a href="#technology">Technology</a>
         </li>
-      </ol>
     </li>
     <li>
       <a href="#rule,-practices-and-principles">Rules, Practices and Principles</a>
@@ -57,8 +55,17 @@ Hello world!!
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
+<details>
+<summary>Website Activity</summary>
+<ol>
+<li>
+<p> 5 - Static & Animated Header.</p>
+</li>
+<li>
+<p>5 - Static & Animated Footer.</p>
+</li>
+</ol>
+</details>
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
