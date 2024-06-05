@@ -1,3 +1,4 @@
+
 <a name="readme-top">
 
 <br/>
@@ -6,15 +7,14 @@
 <div align="center">
   <a href="https://github.com/VianTibay">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="" alt="Rotov" width="130" height="100">
+    <img src="./assets/img/sh.gif" alt="Rotov" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">N</h3>
+  <h3 align="center">Rotciv</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Website)
-</div>
+Hello world!!
 
 <br />
 
@@ -59,16 +59,10 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- What are key components
-- What technology used and how it is used
-
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website
-- Parallax transition
 
 ### Technology
 <!-- TODO: List of Technology Used -->
